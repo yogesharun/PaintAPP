@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PaintApp</string>
+
+    <string name="round">cir</string>
+    <string name="paralleogram">para</string>
+    <string name="oval">Oval</string>
+    <string name="line">line</string>
+    <string name="rgb"> </string>
+    <string name="undo">UNDO</string>
+    <string name="redo">REDO</string>
+    <string name="diamond">dia</string>
+    <string name="rectangle">rect</string>
+    <string name="triangle">tri</string>
+    <string name="pen">pen</string>
+
+
+</resources>
